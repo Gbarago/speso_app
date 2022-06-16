@@ -47,7 +47,7 @@ class ServicesScreen extends StatelessWidget {
                       ),
                       CircularComponents(
                         svg: svgFiles.withdrawSvg,
-                        title: 'wwthdraw',
+                        title: 'Wthdraw',
                         color: const Color.fromARGB(255, 244, 141, 109),
                       ),
                       CircularComponents(

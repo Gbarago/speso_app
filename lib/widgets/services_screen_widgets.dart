@@ -111,7 +111,6 @@ class ReferAndEarn extends StatelessWidget {
         Container(
           decoration: BoxDecoration(
             borderRadius: BorderRadius.circular(15),
-            color: Colors.purple,
           ),
           width: double.infinity,
           height: h * 0.18,
